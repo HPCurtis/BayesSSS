@@ -1,1 +1,1 @@
-# Bayesian small samplw size methods.
+# Bayesian small sample size methods.
